@@ -1,107 +1,96 @@
-# Hi there, I'm Sriya Durga 👋
+# Sriya Durga Chemudupati
 
-🎓 **B.Tech Computer Science Student** at GITAM University  
-💻 **Aspiring Software Engineer** passionate about Artificial Intelligence, Machine Learning, Full-Stack Development, and building real-world software.
+**B.Tech Computer Science Student | Software Engineer | AI & Full-Stack Developer**
 
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **AI, Machine Learning, FastAPI, React, and Cloud Computing**
-- 💡 Passionate about solving real-world problems through technology
-- 🐍 Skilled in Python, JavaScript, SQL, Flask, and TensorFlow
-- 🚀 Always building projects and learning new technologies
+I am a Computer Science student at GITAM University with a passion for building intelligent, scalable, and user-centric software solutions. My interests span Artificial Intelligence, Machine Learning, Backend Development, and Full-Stack Web Development. I enjoy transforming ideas into real-world applications while continuously strengthening my skills in Data Structures & Algorithms, cloud technologies, and modern software engineering practices.
 
 ---
 
-## 🛠️ Tech Stack
+# Skills
 
-### 💻 Languages
-- Python
-- C++
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+### Languages
 
-### ⚙️ Frameworks & Libraries
-- Flask
-- FastAPI
-- React
-- TensorFlow / Keras
-- Bootstrap
+* Python
+* C++
+* JavaScript
+* HTML5
+* CSS3
+* SQL
 
-### 🗄️ Databases
-- PostgreSQL
-- MySQL
+### Frameworks & Libraries
 
-### 🛠️ Tools & Technologies
-- Git
-- GitHub
-- Docker
-- VS Code
-- Postman
+* FastAPI
+* Flask
+* React
+* TensorFlow
+* Keras
+* Bootstrap
 
----
+### Databases
 
-# 🚀 Featured Projects
+* PostgreSQL
+* MySQL
 
-### 🩺 RetinaScope – Diabetic Retinopathy Detection
+### Tools & Technologies
 
-AI-powered web application that screens retinal fundus images using an **EfficientNetB0** deep learning model and predicts the stage of diabetic retinopathy through an intuitive Flask interface.
-
-**Tech Stack:** Python • TensorFlow • Flask • Bootstrap • OpenCV
-
-🔗 **Repository:**  
-https://github.com/sriyadurgachemudupati217-prog/dr-detection-app
+* Git
+* GitHub
+* Docker
+* VS Code
+* Postman
 
 ---
 
-### 🛒 CartShare
+# Highlighted Projects
 
-A collaborative shopping cart web application where multiple users can create or join shared shopping rooms and manage shopping lists together with automatic cost calculation.
-
-**Tech Stack:** HTML • CSS • JavaScript • Bootstrap
-
-🔗 **Repository:**  
-https://github.com/sriyadurgachemudupati217-prog/CartShare-Project
+| Project                                          | Description                                                                                                                                                                                  | Technologies                                 | Repository                                                                           | Status    |
+| ------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- | ------------------------------------------------------------------------------------ | --------- |
+| **AI Business Process Optimizer (AIBPO)**        | AI-powered SaaS platform that automates business workflows using intelligent process optimization, secure JWT authentication, scalable REST APIs, and a modern full-stack architecture.      | FastAPI, React, PostgreSQL, Docker, Python   | [View Repository](https://github.com/sriyadurgachemudupati217-prog/AIBPO)            | Completed |
+| **RetinaScope – Diabetic Retinopathy Detection** | AI-powered web application that analyzes retinal fundus images using an EfficientNetB0 deep learning model to detect and classify diabetic retinopathy through an intuitive Flask interface. | Python, TensorFlow, Flask, OpenCV, Bootstrap | [View Repository](https://github.com/sriyadurgachemudupati217-prog/dr-detection-app) | Completed |
 
 ---
 
-### 🤖 AI Business Process Optimizer (AIBPO)
+# Areas of Interest
 
-An AI-powered SaaS platform designed to automate business workflows using FastAPI, React, PostgreSQL, JWT Authentication, and modern backend architecture.
-
-**Tech Stack:** FastAPI • React • PostgreSQL • Docker • Python
-
-🚧 Currently under development
-
----
-
-## 📈 GitHub Stats
-
-![Sriya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sriyadurgachemudupati217-prog&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sriyadurgachemudupati217-prog&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sriyadurgachemudupati217-prog&theme=tokyonight)
+* Artificial Intelligence
+* Machine Learning
+* Software Engineering
+* Full-Stack Development
+* Backend Development
+* Cloud Computing
+* Data Structures & Algorithms
+* Open Source
 
 ---
 
-## 🎯 Current Goals
+# Achievements
 
-- 🚀 Build production-ready AI applications
-- 💻 Strengthen Data Structures & Algorithms
-- ☁️ Learn Cloud & DevOps
-- 🤝 Contribute to Open Source
-- 🎓 Secure a Software Development Internship
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn: www.linkedin.com/in/sriya-durga-chemudupati-94245a422
+* Web Development Intern
+* Cisco Networking Academy Certifications
+* Google AI & Cloud Certifications
+* AWS Cloud Learning
+* Built AI-powered and full-stack software applications
 
 ---
 
-⭐ *"Turning ideas into real-world software, one project at a time."*
+# Current Focus
+
+* Building production-ready AI applications
+* Developing scalable backend systems
+* Strengthening Data Structures & Algorithms
+* Learning Cloud Computing and DevOps
+* Preparing for Software Engineering roles
+
+---
+
+# Connect
+
+**GitHub**
+https://github.com/sriyadurgachemudupati217-prog
+
+**LinkedIn**
+https://www.linkedin.com/in/sriya-durga-chemudupati-94245a422
+
+---
+
+*"Building intelligent software that solves real-world problems through innovation, scalability, and continuous learning."*
