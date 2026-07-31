@@ -1,12 +1,12 @@
-# Hi, I'm Sriya Durga Chemudupati 👋
+# Sriya Durga Chemudupati
 
 ### B.Tech Computer Science Student | Software Engineer | AI & Full-Stack Developer
 
-I am a Computer Science student at **GITAM University** passionate about building intelligent, scalable, and user-centric software. My interests include Artificial Intelligence, Machine Learning, Backend Development, and Full-Stack Engineering. I enjoy transforming ideas into real-world applications while continuously strengthening my skills in Data Structures & Algorithms, cloud technologies, and modern software engineering.
+I am a Computer Science student at GITAM University passionate about building scalable software and AI-powered applications. My interests include Artificial Intelligence, Machine Learning, Backend Development, and Full-Stack Development. I enjoy designing real-world software solutions while continuously improving my knowledge of Data Structures & Algorithms, cloud computing, and modern software engineering.
 
 ---
 
-# 🚀 Tech Stack
+## Tech Stack
 
 ### Languages
 - Python
@@ -22,8 +22,8 @@ I am a Computer Science student at **GITAM University** passionate about buildin
 - React
 - TensorFlow
 - Keras
-- Bootstrap
 - Tailwind CSS
+- Bootstrap
 
 ### Databases
 - PostgreSQL
@@ -34,22 +34,22 @@ I am a Computer Science student at **GITAM University** passionate about buildin
 - Git
 - GitHub
 - Docker
-- VS Code
 - Postman
+- VS Code
 
 ---
 
-# 📌 Featured Projects
+## Featured Projects
 
-| Project | Description | Tech Stack | Repository |
-|---------|-------------|------------|------------|
-| **AIBPO – AI Business Process Optimizer** | Enterprise AI platform featuring secure authentication, document processing, workload analytics, delay prediction, and intelligent business insights. | FastAPI, React, PostgreSQL, Docker, Python | https://github.com/sriyadurgachemudupati217-prog/aibpo |
-| **ChronoVault AI** | AI-powered space archaeology platform where users explore procedurally generated planets, discover civilizations, analyze artifacts, chat with an AI companion, and build a Galactic Museum. | React, TypeScript, Tailwind CSS, Supabase, Gemini API | https://github.com/sriyadurgachemudupati217-prog/chronovault-galactic-archives |
-| **RetinaScope – Diabetic Retinopathy Detection** | Deep learning web application that detects diabetic retinopathy from retinal fundus images using an EfficientNetB0 model and an interactive Flask interface. | Python, TensorFlow, Flask, OpenCV, Bootstrap | https://github.com/sriyadurgachemudupati217-prog/dr-detection-app |
+| Project | Description | Technologies | Repository | Status |
+|---------|-------------|--------------|------------|--------|
+| **AIBPO – AI Business Process Optimizer** | Enterprise AI platform featuring secure authentication, document processing, workload analytics, delay prediction, and intelligent business insights. | FastAPI, React, PostgreSQL, Docker, Python | <https://github.com/sriyadurgachemudupati217-prog/aibpo> | Completed |
+| **ChronoVault AI** | AI-powered space archaeology platform where users explore procedurally generated planets, discover civilizations, analyze artifacts, interact with an AI companion, and build a Galactic Museum. | React, TypeScript, Tailwind CSS, Supabase, Gemini API | <https://github.com/sriyadurgachemudupati217-prog/chronovault-galactic-archives> | Completed |
+| **RetinaScope – Diabetic Retinopathy Detection** | Deep learning web application that detects diabetic retinopathy from retinal fundus images using an EfficientNetB0 model with an intuitive Flask interface. | Python, TensorFlow, Flask, OpenCV, Bootstrap | <https://github.com/sriyadurgachemudupati217-prog/dr-detection-app> | Completed |
 
 ---
 
-# 💡 Areas of Interest
+## Areas of Interest
 
 - Artificial Intelligence
 - Machine Learning
@@ -61,27 +61,25 @@ I am a Computer Science student at **GITAM University** passionate about buildin
 
 ---
 
-# 🏆 Achievements
+## Certifications
 
-- Web Development Intern
-- Cisco Networking Academy Certifications
+- Cisco Networking Academy
 - Google AI & Cloud Certifications
 - AWS Cloud Learning
-- Built AI-powered and full-stack software applications
 
 ---
 
-# 🌱 Currently Learning
+## Current Focus
 
-- Advanced Data Structures & Algorithms
-- System Design
-- Cloud Computing (AWS)
-- DevOps & Docker
-- Production-ready AI Systems
+- Building production-ready AI applications
+- Developing scalable backend systems
+- Strengthening Data Structures & Algorithms
+- Learning Cloud Computing and DevOps
+- Preparing for Software Engineering roles
 
 ---
 
-# 📫 Connect
+## Connect
 
 **GitHub**  
 https://github.com/sriyadurgachemudupati217-prog
@@ -91,4 +89,4 @@ https://www.linkedin.com/in/sriya-durga-chemudupati-94245a422
 
 ---
 
-> *"Building intelligent software that solves real-world problems through innovation, scalable engineering, and continuous learning."*
+*"Building intelligent software that solves real-world problems through innovation, scalable engineering, and continuous learning."*
