@@ -65,7 +65,7 @@ I am a Computer Science student at GITAM University passionate about building sc
 
 - Cisco Networking Academy
 - Google AI & Cloud Certifications
-- AWS Cloud Learning
+
 
 ---
 
