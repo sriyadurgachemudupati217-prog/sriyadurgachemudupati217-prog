@@ -1,31 +1,18 @@
 # Sriya Durga Chemudupati
 
-**B.Tech Computer Science Student | Software Engineer | AI & Full-Stack Developer**
+### Software Engineer | AI & Full-Stack Developer | B.Tech Computer Science Student
 
-[LinkedIn](https://www.linkedin.com/in/sriya-durga-chemudupati-94245a422) • [GitHub](https://github.com/sriyadurgachemudupati217-prog)
-
----
-
-## About Me
-
-I am a B.Tech Computer Science student at GITAM University with a strong interest in Software Engineering, Artificial Intelligence, Machine Learning, Backend Development, and Full-Stack Development. I enjoy building scalable applications that solve real-world problems while continuously strengthening my skills in Data Structures & Algorithms, Cloud Computing, and modern software development.
-
-I am currently:
-- Building AI-powered applications
-- Learning Cloud Computing and DevOps
-- Strengthening Data Structures & Algorithms
-- Preparing for Software Engineering roles
+I am a Computer Science student at **GITAM University** passionate about building intelligent, scalable software solutions. My interests span **Artificial Intelligence, Machine Learning, Backend Engineering, and Full-Stack Development**. I enjoy transforming ideas into practical applications while continuously strengthening my foundation in software engineering, cloud technologies, and Data Structures & Algorithms.
 
 ---
 
 ## Featured Projects
 
-| AIBPO | ChronoVault AI | RetinaScope |
-|:------|:---------------|:------------|
-| **AI Business Process Optimizer** | **AI-powered Space Archaeology Platform** | **Diabetic Retinopathy Detection** |
-| Enterprise AI platform with secure authentication, intelligent document processing, workload analytics, delay prediction, and AI-driven business insights. | Explore procedurally generated planets, discover civilizations, analyze artifacts, and build a Galactic Museum with an AI companion. | Deep learning application that detects diabetic retinopathy from retinal fundus images using an EfficientNetB0 model through a Flask web interface. |
-| **Tech Stack**<br>FastAPI • React • PostgreSQL • Docker • Python | **Tech Stack**<br>React • TypeScript • Tailwind CSS • Supabase • Gemini API | **Tech Stack**<br>Python • TensorFlow • Flask • OpenCV • Bootstrap |
-| **[Repository](https://github.com/sriyadurgachemudupati217-prog/aibpo)** | **[Repository](https://github.com/sriyadurgachemudupati217-prog/chronovault-galactic-archives)** | **[Repository](https://github.com/sriyadurgachemudupati217-prog/dr-detection-app)** |
+| Project | Description | Technologies |
+|---------|-------------|--------------|
+| **[AIBPO – AI Business Process Optimizer](https://github.com/sriyadurgachemudupati217-prog/aibpo)** | Enterprise AI platform featuring secure authentication, document processing, workload analytics, delay prediction, and AI-driven business insights. | FastAPI • React • PostgreSQL • Docker • Python |
+| **[ChronoVault AI](https://github.com/sriyadurgachemudupati217-prog/chronovault-galactic-archives)** | AI-powered space archaeology platform where users explore procedurally generated planets, discover civilizations, analyze artifacts, interact with an AI companion, and build a Galactic Museum. | React • TypeScript • Tailwind CSS • Supabase • Gemini API |
+| **[RetinaScope – Diabetic Retinopathy Detection](https://github.com/sriyadurgachemudupati217-prog/dr-detection-app)** | Deep learning application that detects diabetic retinopathy from retinal fundus images using an EfficientNetB0 model deployed through a Flask web interface. | Python • TensorFlow • Flask • OpenCV • Bootstrap |
 
 ---
 
@@ -35,8 +22,8 @@ I am currently:
 - Python
 - C++
 - JavaScript
-- HTML
-- CSS
+- HTML5
+- CSS3
 - SQL
 
 ### Frameworks & Libraries
@@ -53,7 +40,7 @@ I am currently:
 - MySQL
 - Supabase
 
-### Tools
+### Tools & Platforms
 - Git
 - GitHub
 - Docker
@@ -82,23 +69,20 @@ I am currently:
 
 ---
 
-## GitHub Statistics
+## Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sriyadurgachemudupati217-prog&show_icons=true&rank_icon=github&hide_border=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sriyadurgachemudupati217-prog&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriyadurgachemudupati217-prog&layout=compact&hide_border=true" height="170" />
-</p>
+- Building production-ready AI applications
+- Developing scalable backend systems
+- Strengthening Data Structures & Algorithms
+- Learning Cloud Computing and DevOps
+- Preparing for Software Engineering roles
 
 ---
 
-## Contact
+## Connect
 
-- **LinkedIn:** https://www.linkedin.com/in/sriya-durga-chemudupati-94245a422
 - **GitHub:** https://github.com/sriyadurgachemudupati217-prog
+- **LinkedIn:** https://www.linkedin.com/in/sriya-durga-chemudupati-94245a422
 
 ---
 
