@@ -1,22 +1,22 @@
 # Sriya Durga Chemudupati
 
-### Software Engineer | AI & Full-Stack Developer | B.Tech Computer Science Student
+### B.Tech Computer Science Student | Software Engineer | AI & Full-Stack Developer
 
-I am a Computer Science student at **GITAM University** passionate about building intelligent, scalable software solutions. My interests span **Artificial Intelligence, Machine Learning, Backend Engineering, and Full-Stack Development**. I enjoy transforming ideas into practical applications while continuously strengthening my foundation in software engineering, cloud technologies, and Data Structures & Algorithms.
+I am a Computer Science student at GITAM University passionate about building scalable software and AI-powered applications. My interests include Artificial Intelligence, Machine Learning, Backend Development, and Full-Stack Development. I enjoy designing real-world software solutions while continuously improving my knowledge of Data Structures & Algorithms, cloud computing, and modern software engineering.
 
 ---
 
 ## Featured Projects
 
-| Project | Description | Technologies |
-|---------|-------------|--------------|
-| **[AIBPO – AI Business Process Optimizer](https://github.com/sriyadurgachemudupati217-prog/aibpo)** | Enterprise AI platform featuring secure authentication, document processing, workload analytics, delay prediction, and AI-driven business insights. | FastAPI • React • PostgreSQL • Docker • Python |
-| **[ChronoVault AI](https://github.com/sriyadurgachemudupati217-prog/chronovault-galactic-archives)** | AI-powered space archaeology platform where users explore procedurally generated planets, discover civilizations, analyze artifacts, interact with an AI companion, and build a Galactic Museum. | React • TypeScript • Tailwind CSS • Supabase • Gemini API |
-| **[RetinaScope – Diabetic Retinopathy Detection](https://github.com/sriyadurgachemudupati217-prog/dr-detection-app)** | Deep learning application that detects diabetic retinopathy from retinal fundus images using an EfficientNetB0 model deployed through a Flask web interface. | Python • TensorFlow • Flask • OpenCV • Bootstrap |
+| Project | Description | Technologies | Repository | Status |
+|---------|-------------|--------------|------------|--------|
+| **AIBPO – AI Business Process Optimizer** | Enterprise AI platform featuring secure authentication, document processing, workload analytics, delay prediction, and intelligent business insights. | FastAPI, React, PostgreSQL, Docker, Python | <https://github.com/sriyadurgachemudupati217-prog/aibpo> | Completed |
+| **ChronoVault AI** | AI-powered space archaeology platform where users explore procedurally generated planets, discover civilizations, analyze artifacts, interact with an AI companion, and build a Galactic Museum. | React, TypeScript, Tailwind CSS, Supabase, Gemini API | <https://github.com/sriyadurgachemudupati217-prog/chronovault-galactic-archives> | Completed |
+| **RetinaScope – Diabetic Retinopathy Detection** | Deep learning web application that detects diabetic retinopathy from retinal fundus images using an EfficientNetB0 model with an intuitive Flask interface. | Python, TensorFlow, Flask, OpenCV, Bootstrap | <https://github.com/sriyadurgachemudupati217-prog/dr-detection-app> | Completed |
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 ### Languages
 - Python
@@ -27,9 +27,9 @@ I am a Computer Science student at **GITAM University** passionate about buildin
 - SQL
 
 ### Frameworks & Libraries
-- React
 - FastAPI
 - Flask
+- React
 - TensorFlow
 - Keras
 - Tailwind CSS
@@ -40,7 +40,7 @@ I am a Computer Science student at **GITAM University** passionate about buildin
 - MySQL
 - Supabase
 
-### Tools & Platforms
+### Tools
 - Git
 - GitHub
 - Docker
@@ -81,9 +81,12 @@ I am a Computer Science student at **GITAM University** passionate about buildin
 
 ## Connect
 
-- **GitHub:** https://github.com/sriyadurgachemudupati217-prog
-- **LinkedIn:** https://www.linkedin.com/in/sriya-durga-chemudupati-94245a422
+**GitHub**  
+https://github.com/sriyadurgachemudupati217-prog
+
+**LinkedIn**  
+https://www.linkedin.com/in/sriya-durga-chemudupati-94245a422
 
 ---
 
-> *Building intelligent software that solves real-world problems through innovation, scalable engineering, and continuous learning.*
+*"Building intelligent software that solves real-world problems through innovation, scalable engineering, and continuous learning."*
